@@ -1,0 +1,2 @@
+# android_device_nubia_nx609j
+仅用于为红魔游戏手机编译twrp
