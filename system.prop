@@ -1,0 +1,7 @@
+ro.display.series=NX609J
+sys.usb.controller=a800000.dwc3
+sys.usb.rndis.func.name=gsi
+sys.usb.rmnet.func.name=gsi
+ro.treble.enabled=true
+
+
